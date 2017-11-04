@@ -1,0 +1,49 @@
+
+table.gridtable {
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:white;
+    border-width: 1px;
+    border-color: #666666;
+    border-collapse: collapse;
+}
+table.gridtable th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color:  ;
+}
+table.gridtable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color:  ;
+}
+
+table.gridtable  a:link,a:visited {
+	color:white;
+	text-decoration:none;
+}
+
+table.gridtable  a:hover,a:active {
+	color:green;
+	text-decoration:none;
+}
+
+.right a:link,a:visited {
+	color:white;
+	text-decoration:none;
+}
+
+.right a:hover,a:active {
+	color:blue;
+	text-decoration:none;
+}
+
+.right a{
+	
+	font-size:2.2em;
+	
+}
